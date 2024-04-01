@@ -2,7 +2,7 @@
 
 ## Usage
 
-- Clone git hbu repo on local machine using SSH :
+- Clone git repo on local machine using SSH :
     Docs:
     https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
     https://www.youtube.com/watch?v=X40b9x9BFGo
